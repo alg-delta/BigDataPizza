@@ -472,5 +472,50 @@
     word-spacing: 2px;
     font-size: 15px;
 	margin-left:60px;
-	argin-top:20px;
+	margin-top:20px;
+}
+
+.up {
+	position:fixed;
+	bottom:30px;
+	right:470px;
+	width:70px;
+	height:70px;
+	background-color:#247782;
+}
+
+.up  a {
+	text-decoration:none;
+	font-size:28px;
+	color: white;
+}
+
+.up2 {
+	position:fixed;
+	bottom:30px;
+	right:330px;
+	width:70px;
+	height:70px;
+	background-color:#247782;
+}
+
+.up2  a {
+	text-decoration:none;
+	font-size:28px;
+	color: white;
+}
+
+.up3 {
+	position:fixed;
+	bottom:30px;
+	right:420px;
+	width:70px;
+	height:70px;
+	background-color:#247782;
+}
+
+.up3  a {
+	text-decoration:none;
+	font-size:28px;
+	color: white;
 }
